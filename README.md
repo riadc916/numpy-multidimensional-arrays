@@ -1,10 +1,10 @@
-# 🧮 Computation with NumPy & N-Dimensional Arrays
+# Computation with NumPy & N-Dimensional Arrays
 
 This project covers core numerical computing concepts using Python's **NumPy** library, focusing on multi-dimensional array operations, linear algebra, broadcasting, and low-level digital image processing.
 
 ---
 
-## 📌 Topics Covered
+## Topics Covered
 - **NumPy ndarray Fundamentals:** Vector (1D), Matrix (2D), and Tensor (3D/nD) structures, attributes (`.shape`, `.ndim`).
 - **Array Slicing & Indexing:** Multi-axis selection, sub-setting, stepping, and array reversal (`np.flip`, `[::-1]`).
 - **Mathematical Array Generation:** Generating evenly spaced sequences (`np.arange()`, `np.linspace()`) and random tensors (`np.random.random()`).
@@ -18,14 +18,14 @@ This project covers core numerical computing concepts using Python's **NumPy** l
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## Tech Stack & Tools
 - **Language:** Python
 - **Libraries:** NumPy, Matplotlib, SciPy, Pillow (PIL)
 - **Environment:** Google Colaboratory / Jupyter Notebook
 
 ---
 
-## 🚀 How to Run Locally
+## How to Run Locally
 1. Clone the repository:
    ```bash
    git clone [https://github.com/riadc916/numpy-multidimensional-arrays.git](https://github.com/riadc916/numpy-multidimensional-arrays.git)
